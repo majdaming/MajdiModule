@@ -9,4 +9,4 @@ import { MajdiComponent } from './majdi/majdi.component';
   declarations: [MajdiComponent],
   exports: [MajdiComponent]
 })
-export class MajdiModuleModule { }
+export class MajdiModule { }
